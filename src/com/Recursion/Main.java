@@ -29,6 +29,8 @@ public class Main {
 
         System.out.println(aq.peekFirst());
 
+        // similarly for peek last.
 
+        System.out.println(aq.peekLast());
     }
 }
