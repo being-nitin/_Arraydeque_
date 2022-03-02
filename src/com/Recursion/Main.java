@@ -21,8 +21,14 @@ public class Main {
         aq.offerLast(877);
         aq.offerLast(878);
 
-        // similarly you can use for peek
+        // similarly you can use for peek.
 
         System.out.println(aq.peek());
+
+        // you can use first and last for peek too.
+
+        System.out.println(aq.peekFirst());
+
+
     }
 }
