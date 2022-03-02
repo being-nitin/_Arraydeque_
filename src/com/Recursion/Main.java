@@ -21,5 +21,8 @@ public class Main {
         aq.offerLast(877);
         aq.offerLast(878);
 
+        // similarly you can use for peek
+
+        System.out.println(aq.peek());
     }
 }
