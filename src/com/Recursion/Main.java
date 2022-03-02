@@ -15,6 +15,8 @@ public class Main {
         aq.offerFirst(7882);
         aq.offerFirst(7881);
         aq.offerFirst(7883);
+
+        // offerLast method will add the element at last place.
         aq.offerLast(876);
         aq.offerLast(877);
         aq.offerLast(878);
