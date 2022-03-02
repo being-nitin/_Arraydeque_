@@ -8,6 +8,9 @@ public class Main {
 	done from both the end , and you can peek the element from both the side.
 	 */
         ArrayDeque <Integer> aq = new ArrayDeque<>();
+
+        // offerFirst method will add the element at first place.
+
         aq.offerFirst(7887);
         aq.offerFirst(7882);
         aq.offerFirst(7881);
